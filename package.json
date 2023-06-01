@@ -1,0 +1,11 @@
+{
+  "name": "dale2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "oj",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
